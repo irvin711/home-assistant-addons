@@ -1,5 +1,5 @@
 [submodule "batmon-haha"]
-	path = batmon-hahi
+	path = batmon-haha
 	url = https://github.com/fl4p/batmon-ha
 [submodule "influxdb-udp-relay"]
         path = influxdb-udp-relay
