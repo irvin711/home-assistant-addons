@@ -1,4 +1,4 @@
-[submodule "batmon-ha"]
+[submodule "batmon-haha"]
 	path = batmon-ha
 	url = https://github.com/fl4p/batmon-ha
 [submodule "influxdb-udp-relay"]
